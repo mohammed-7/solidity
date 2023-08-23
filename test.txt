@@ -1,0 +1,8 @@
+Why to use Solidity Programming Language? 
+	> Solidity is a new programming language created by ethereum , which is the second largest market of cryptocurrency.
+		.solidity is a high level programming language designed for implementing smart contracts.
+		.It is satitically typed language.
+		.It suports complex user-defined programming lib and inheritance
+		.It is a primary language for blockchains running platforms.
+		.It is used to create a contract like voting, blind auctions, crowd funding, multi signatures wallets etc..
+		
